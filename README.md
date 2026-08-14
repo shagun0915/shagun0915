@@ -6,16 +6,20 @@
 <a href="mailto:shagun0915@gmail.com"><img src="https://img.shields.io/badge/Email-1E5F58?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://shagun0915.github.io/"><img src="https://img.shields.io/badge/Portfolio-B6702E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/●%20Open%20to%20new%20opportunities-1E5F58?style=flat-square&labelColor=F6F6F3&color=1E5F58" />
+
 </div>
 
 <br>
 
 ### About me
 
-I'm a Senior Software Engineer at **Visa**, where I build the backbone of an enterprise risk platform that now moves **$3.5B a year** — and, more recently, the AI agents that sit on top of it.
+I spent three years as a Senior Software Engineer at **Visa**, where I built the backbone of an enterprise risk platform that moved **$3.5B a year** — and, more recently, the AI agents that sat on top of it. I'm currently **open to new opportunities**.
 
 - 🏢 Enterprise-scale delivery on **Dynamics 365 CE, Dataverse, Power Platform, C#, and SQL Server**
-- 🤖 Currently building **agentic AI workflows** with **Claude Agent SDK**, **Model Context Protocol (MCP)**, and LLM prompt engineering
+- 🤖 Built **agentic AI workflows** with **Claude Agent SDK**, **Model Context Protocol (MCP)**, and LLM prompt engineering
 - 📄 Co-authored an IEEE-indexed paper comparing CNN and Vision Transformer architectures for fingerprint recognition
 - 🏆 Won **2nd Prize, AI/ML Track** and **Best All-Girls Team** at Hackhound (Major League Hacking × SRM University)
 - 🎓 B.Tech, Computer Science & Engineering — IGDTUW
@@ -30,7 +34,7 @@ I'm a Senior Software Engineer at **Visa**, where I build the backbone of an ent
 
 <br>
 
-### What I'm working with right now
+### Core tech
 
 <div align="center">
 
@@ -73,7 +77,7 @@ Fine-tuned Vision Transformer achieved **98.49% Rank-1 Accuracy**, **99.99% AUC-
 
 <div align="center">
 
-*Building enterprise systems that now think for themselves. Always up for a conversation on agentic AI or enterprise architecture.*
+*Open to new opportunities in enterprise software and agentic AI engineering. Always up for a conversation.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1E5F58&height=3&section=footer&width=100%25" width="60%"/>
 
