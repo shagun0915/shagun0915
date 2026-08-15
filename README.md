@@ -20,6 +20,7 @@ I spent three years as a Senior Software Engineer at **Visa**, where I built the
 
 - 🏢 Enterprise-scale delivery on **Dynamics 365 CE, Dataverse, Power Platform, C#, and SQL Server**
 - 🤖 Built **agentic AI workflows** with **Claude Agent SDK**, **Model Context Protocol (MCP)**, and LLM prompt engineering
+- 🔍 Built and evaluated a **hybrid RAG platform** — vector + lexical retrieval, cross-encoder reranking, agentic query reformulation — with a real golden-dataset evaluation suite, not vibes
 - 📄 Co-authored an IEEE-indexed paper comparing CNN and Vision Transformer architectures for fingerprint recognition
 - 🏆 Won **2nd Prize, AI/ML Track** and **Best All-Girls Team** at Hackhound (Major League Hacking × SRM University)
 - 🎓 B.Tech, Computer Science & Engineering — IGDTUW
@@ -71,7 +72,9 @@ Fine-tuned Vision Transformer achieved **98.49% Rank-1 Accuracy**, **99.99% AUC-
 
 ### Featured project
 
-**[TeamUpApp](https://github.com/shagun0915/TeamUpApp)** — a MERN-stack chat and video conferencing application built with WebRTC for video and Socket.IO for real-time messaging.
+**[Hybrid RAG Platform](https://github.com/shagun0915/hybrid-rag-platform)** — hybrid vector + lexical retrieval, cross-encoder reranking, and an agentic query-reformulation loop (hard iteration cap included), evaluated against a real golden dataset run live against the system. Found and fixed a real retrieval bug along the way — a paraphrased query collapsed retrieval confidence from 0.98 to 0.0006 — traced to a chunk-boundary issue and documented in full, including the parts that weren't a clean fix.
+
+Also: **[TeamUpApp](https://github.com/shagun0915/TeamUpApp)** — a MERN-stack chat and video conferencing application built with WebRTC for video and Socket.IO for real-time messaging.
 
 <br>
 
