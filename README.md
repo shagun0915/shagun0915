@@ -30,7 +30,7 @@ I spent three years as a Senior Software Engineer at **Visa**, where I built the
 ### Tech stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,js,html,css,azure,git,github,vscode,postman,py,react,nodejs,mysql&theme=light" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,js,html,css,py,azure,docker,postgres,git,github,vscode,postman,react,nodejs,mysql&theme=light" />
 </div>
 
 <br>
@@ -41,9 +41,14 @@ I spent three years as a Senior Software Engineer at **Visa**, where I built the
 
 ![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-B6702E?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-B6702E?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-B6702E?style=flat-square&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-B6702E?style=flat-square&logoColor=white)
+![Cross-Encoder Reranking](https://img.shields.io/badge/Cross--Encoder_Reranking-B6702E?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-B6702E?style=flat-square&logoColor=white)
 ![Dynamics 365](https://img.shields.io/badge/Dynamics_365_CE-1E5F58?style=flat-square&logoColor=white)
 ![Power Platform](https://img.shields.io/badge/Power_Platform-1E5F58?style=flat-square&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1E5F58?style=flat-square&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-1E5F58?style=flat-square&logoColor=white)
 
 </div>
 
